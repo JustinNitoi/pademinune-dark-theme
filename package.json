@@ -13,9 +13,19 @@
   "contributes": {
     "themes": [
       {
-        "label": "Pademinune Dark",
+        "label": "Pademinune Dark (Very Dark)",
         "uiTheme": "vs-dark",
         "path": "./themes/pademinune-dark-theme.json"
+      },
+      {
+        "label": "Pademinune Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pademinune-dark-theme-medium.json"
+      },
+      {
+        "label": "Pademinune Dark (Inverted)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pademinune-dark-theme-inverted.json"
       }
     ]
   }
