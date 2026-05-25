@@ -1,6 +1,6 @@
-# Pademinune Dark Theme
+# Justin's Themes
 
-![Pademinune Dark Theme Screenshot](https://raw.githubusercontent.com/JustinNitoi/pademinune-dark-theme/refs/heads/main/dark-theme-screenshot.jpg)
+![Justin Dark Theme Screenshot](https://raw.githubusercontent.com/JustinNitoi/pademinune-dark-theme/refs/heads/main/dark-theme-screenshot.jpg)
 
 A dark color theme for Visual Studio Code based on Material Theme Ocean, with a near-black background (`#141414`) and a carefully tuned color palette for comfortable long-session coding.
 

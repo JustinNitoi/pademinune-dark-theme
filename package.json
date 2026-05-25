@@ -1,8 +1,8 @@
 {
-  "name": "pademinune-dark-theme",
-  "displayName": "Pademinune Dark Theme",
-  "description": "A dark color theme based on Material Theme Ocean",
-  "version": "0.0.2",
+  "name": "justin-themes",
+  "displayName": "Justin's Themes",
+  "description": "The vscode themes I use, heavily inspired by material dark ocean.",
+  "version": "1.0.0",
   "publisher": "your-publisher-id",
   "engines": {
     "vscode": "^1.60.0"
@@ -13,19 +13,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Pademinune Dark (Very Dark)",
+        "label": "Justin Midnight",
         "uiTheme": "vs-dark",
-        "path": "./themes/pademinune-dark-theme.json"
+        "path": "./themes/justin-midnight.json"
       },
       {
-        "label": "Pademinune Dark",
+        "label": "Justin Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/pademinune-dark-theme-medium.json"
-      },
-      {
-        "label": "Pademinune Dark (Inverted)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/pademinune-dark-theme-inverted.json"
+        "path": "./themes/justin-dark.json"
       }
     ]
   }
