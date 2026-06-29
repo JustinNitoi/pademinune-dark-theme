@@ -21,6 +21,16 @@
         "label": "Justin Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/justin-dark.json"
+      },
+      {
+        "label": "Justin OLED",
+        "uiTheme": "vs-dark",
+        "path": "./themes/justin-oled.json"
+      },
+      {
+        "label": "Justin OLED Contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/justin-oled-contrast.json"
       }
     ]
   }
